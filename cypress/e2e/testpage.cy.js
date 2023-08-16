@@ -3,7 +3,7 @@
 describe('Testing the app', () => {
 
     beforeEach(() => {
-      cy.visit('https://manuelalejandro93.github.io/hotels_deployment')
+      cy.visit('https://manuelalejandro93.github.io/hotels_deployment/')
     })
   
     it('Should show all cards (18 cards)', () => {
